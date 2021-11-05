@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Device Repository -->
+    <project path="device/xiaomi/mojito" name="xd_device_xiaomi_mojito" remote="xd_mojito"/>
+
+</manifest>

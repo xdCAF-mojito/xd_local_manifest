@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Vendor Repository -->
+    <project path="vendor/xiaomi/mojito" name="xd_vendor_xiaomi_mojito" remote="xd_mojito"/>
+
+</manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Kernel Repository -->
+    <project path="kernel/xiaomi/mojito" name="venom-stark/kernel_xiaomi_mojito-1" remote="github"/>
+
+</manifest>

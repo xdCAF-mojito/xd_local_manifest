@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- xdCAF Mojito Remote -->
+    <remote   name="xd_mojito"
+              fetch="https://github.com/xdCAF-mojito"
+              revision="twelve"/>
+
+    <!-- Github Remote Repository -->
+    <remote   name="github"
+              fetch="https://github.com"/>
+
+    <!-- Tracked Repository -->
+    <include name="mojito_device.xml"/>
+    <include name="mojito_vendor.xml"/>
+    <include name="mojito_kernel.xml"/>
+
+</manifest> 
