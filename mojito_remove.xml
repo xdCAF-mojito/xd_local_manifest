@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Hardware Repo -->
+    <remove-project name="hardware/qcom-caf/sm8150/display"/>
+    <remove-project name="hardware/qcom-caf/sm8150/media"/>
+    <remove-project name="hardware/qcom-caf/sm8150/audio"/>
+
+</manifest> 
