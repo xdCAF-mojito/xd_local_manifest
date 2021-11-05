@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Hardware Repo -->
+    <project path="hardware/qcom-caf/sm8150/display" name="xd_hardware_qcom_caf_display" remote="xd_mojito"/>
+    <project path="hardware/qcom/media" name="xd_hardware_qcom_caf_media" remote="xd_mojito"/>
+    <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="xd_hardware_qcom_caf_audio" remote="xd_mojito"/>
+
+</manifest> 
