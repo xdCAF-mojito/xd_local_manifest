@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-    <!-- Hardware Repo -->
-    <remove-project name="prebuilts/gcc/linux-x86/arm/arm-eabi"/>
-
-</manifest> 
