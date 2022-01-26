@@ -2,8 +2,6 @@
 <manifest>
 
     <!-- Hardware Repo -->
-    <remove-project name="hardware/qcom-caf/sm8150/display"/>
-    <remove-project name="hardware/qcom-caf/sm8150/media"/>
-    <remove-project name="hardware/qcom-caf/sm8150/audio"/>
+    <remove-project name="prebuilts/gcc/linux-x86/arm/arm-eabi"/>
 
 </manifest> 

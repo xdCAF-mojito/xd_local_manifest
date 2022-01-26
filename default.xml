@@ -4,7 +4,7 @@
     <!-- xdCAF Mojito Remote -->
     <remote   name="xd_mojito"
               fetch="https://github.com/xdCAF-mojito"
-              revision="twelve"/>
+              revision="eleven"/>
 
     <!-- Github Remote Repository -->
     <remote   name="github"
